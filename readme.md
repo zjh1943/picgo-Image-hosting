@@ -1,0 +1,1 @@
+Searve as an image hosting server.
